@@ -10,9 +10,7 @@
 
 ## Gas & Electric consuption
 
-## Resources
-
- - [Base Docx](Zpráva%20o%20budouci%20ocekavane%20spotrebe%20elektriny%20a%20plynu.docx)
+- [Zprava o budoucí očekávané spotřebě](./Zpráva%20o%20budouci%20ocekavane%20spotrebe%20elektriny%20a%20plynu.docx)
 
 ### Electric Prediction summary 
 
@@ -39,3 +37,19 @@ The trend changed in 2015, when consumption started to rise again due to economi
 The document also examines the factors influencing the demand for natural gas, including the role of natural gas in replacing coal in district heating and the production sector, and potential developments in the use of natural gas for electricity production and heating in households.
 
 The document predicts that the overall demand for natural gas in the Czech Republic will rise until 2040, reaching a level of 130 TWh, primarily due to a shift away from coal use in industry and district heating, and an increase in gas consumption for mono-production of electricity. From 2040 onwards, a slight decrease or stagnation is expected in all segments, mainly due to energy savings in the industry and household segments.
+
+- [Hodnoceni zdrojove přiměřenosti](./Hodnoceni%20zdrojove%20primerenosti.docx)
+
+###	Očekávaný vývoj poptávky elektřiny summary
+
+This document is in Czech and provides a medium-term outlook for the production capacities of the electricity system in the Czech Republic. It discusses the current state of production capacities and their likely future development, focusing on the outlook for the operation of various types of production sources.
+
+The document presents a detailed analysis of the production structure and energy mix of different types of energy sources. It states that the highest share in the Czech Republic's energy production continues to be from sources with fuel boilers and steam turbines, which primarily burn brown and black coal. However, production in this segment showed a sharp increase in 2021 due to increased economic activity and higher gas prices on commodity exchanges. 
+
+The document also discusses the outlook for nuclear power plants, which saw an increase in production in 2020. The Czech electricity system (ES CR) carries out annual surveys to estimate the medium-term outlook for the operation of sources. The document provides projections for the development of installed power of thermal, water, and pumped storage power plants up to 2040.
+
+The document then discusses the use of fossil fuels, coal power plants, gas power plants, and district heating. It mentions that the production of electricity and heat from coal sources is characterized by high CO2 emissions per unit of produced electricity. Therefore, the gradual phase-out of coal sources is one of the necessary requirements for achieving decarbonization goals at the national and European level.
+
+The document also discusses the production of electricity from renewable energy sources (RES) and decentralized energy. It provides projections for the development of installed power of photovoltaic and wind power plants up to 2040. It suggests that new sources will not represent more than 11.8% of the current installed power, and the development of the source base will be largely determined by the growth of decentralized sources.
+
+In conclusion, the document suggests that the operation of existing power plants will be crucial for the medium-term outlook of the Czech Republic's source base, as well as compliance with the construction schedule for new sources. The future of electricity and heat production from coal remains very uncertain. The transformation of coal sources to burn biomass, natural gas, or waste is considered, but this transformation has its limits and difficulties in terms of the availability of the necessary amount of fuel.
