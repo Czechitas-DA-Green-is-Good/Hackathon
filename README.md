@@ -18,7 +18,7 @@ ExtractRelevantData : - Using ChatGPT
 ExtractRelevantData -> Predictions : CSV
 Predictions : - Using Pandas
 Predictions -> Tableau
-Predictions -> BlogArticle : Text + Diagrams
+Tableau -> BlogArticle : Text + Tabeau Diagrams
 @enduml
 ```
 
