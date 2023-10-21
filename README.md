@@ -6,7 +6,21 @@
 - New organisation on Github setup
 - [Datasets](https://drive.google.com/drive/folders/1N-opCC1nnZl0L3ATsz_ovrSphF6GHBYF)
 
+## The Plan
+![Alt text](./ThePlan.svg)
 
+```
+@startuml
+[*] --> GatherArticles
+GatherArticles -> ExtractRelevantData : Free Text
+GatherArticles : - Internet search 
+ExtractRelevantData : - Using ChatGPT
+ExtractRelevantData -> Predictions : CSV
+Predictions : - Using Pandas
+Predictions -> Tableau
+Predictions -> BlogArticle : Text + Diagrams
+@enduml
+```
 
 ## Gas & Electric consuption
 
@@ -53,19 +67,3 @@ The document then discusses the use of fossil fuels, coal power plants, gas powe
 The document also discusses the production of electricity from renewable energy sources (RES) and decentralized energy. It provides projections for the development of installed power of photovoltaic and wind power plants up to 2040. It suggests that new sources will not represent more than 11.8% of the current installed power, and the development of the source base will be largely determined by the growth of decentralized sources.
 
 In conclusion, the document suggests that the operation of existing power plants will be crucial for the medium-term outlook of the Czech Republic's source base, as well as compliance with the construction schedule for new sources. The future of electricity and heat production from coal remains very uncertain. The transformation of coal sources to burn biomass, natural gas, or waste is considered, but this transformation has its limits and difficulties in terms of the availability of the necessary amount of fuel.
-
-
-![Alt text](./ThePlan.svg)
-
-```
-@startuml
-[*] --> GatherArticles
-GatherArticles -> ExtractRelevantData : Free Text
-GatherArticles : - Internet search 
-ExtractRelevantData : - Using ChatGPT
-ExtractRelevantData -> Predictions : CSV
-Predictions : - Using Pandas
-Predictions -> Tableau
-Predictions -> BlogArticle : Text + Diagrams
-@enduml
-```
