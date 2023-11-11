@@ -7,7 +7,7 @@
 - [Datasets](https://drive.google.com/drive/folders/1N-opCC1nnZl0L3ATsz_ovrSphF6GHBYF)
 
 ## The Plan
-![Alt text](./ThePlan.svg)
+![Alt text](./presetations/ThePlan.svg)
 
 ```
 @startuml
