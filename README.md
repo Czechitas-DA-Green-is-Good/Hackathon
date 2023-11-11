@@ -14,8 +14,13 @@
 [*] --> GatherArticles
 GatherArticles -> ExtractRelevantData : Free Text
 GatherArticles : - Internet search 
-ExtractRelevantData : - Using ChatGPT
 ExtractRelevantData -> Predictions : CSV
+
+state ExtractRelevantData {
+  Python -> ChatGPT : API
+}
+
+
 Predictions : - Using Pandas
 Predictions -> Tableau
 Tableau -> BlogArticle : Text + Tabeau Diagrams
